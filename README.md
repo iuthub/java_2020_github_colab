@@ -1,1 +1,3 @@
-# java_2020_github_colab
+# Github Collaboration Workshop
+
+In this project, you will learn how to work with the team using Github.
